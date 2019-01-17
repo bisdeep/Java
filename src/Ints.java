@@ -1,4 +1,4 @@
-public class Main {
+public class Ints {
     public static void main(String[] args){
         //Literals are fixed set variables, while expressions involve some form of computation.
         int x = 1;//this is a literal.
